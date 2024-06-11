@@ -1,0 +1,29 @@
+body{
+    background-color: aquamarine;
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+}
+
+.inputClass{
+    border: 1px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.ContainerClass{
+    margin-top: 30px;
+}
+.FormClass{
+ padding: 10px;
+ box-sizing: border-box;   
+}
+.TableClass{
+    margin-top: 20px;
+
+}
+.BtnClass{
+    display: flex;
+    justify-content: space-between;
+}
